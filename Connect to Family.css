@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+th{
+    color: greenyellow;
+}
+td{
+    color: green;
+    font-size: large;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+caption{
+    color: darkviolet;
+    font-size: x-large;
+    text-shadow: 2px 2px 2px aquamarine;
+    margin-bottom: 10px;
+}
+table,td,th{
+    border: 3px outset blue; 
+    margin: 10px;
+}
+table{
+    width: 35%;
+    box-shadow: 3px 3px 3px orange;
+}
